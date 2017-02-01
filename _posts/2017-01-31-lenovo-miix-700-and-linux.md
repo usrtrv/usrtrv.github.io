@@ -8,6 +8,7 @@ comments: true
 ---
 
 I recently purchased the Miix 700-12ISK to replace my ThinkPad X230. I wanted to get something ultra portable and the Surface Pro came to mind. But it was a bit pricey for my taste. So a knock-off would work just fine. There was very little information on the Miix 700 running Linux, so I thought I'd share my findings. This isn't going to be a hardware review, but an overview of an out-of-the-box Fedora 25 install.
+
 ## What Just Worked
 
 ### Installation
